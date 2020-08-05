@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>The Practice Zone</title>
+    <link href="https://littletinman.github.io/tpz-pages/feed.xml" rel="self" />
+    <link href="https://littletinman.github.io/tpz-pages" />
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <author>
+        <name>Phil</name>
+    </author>
+    <id>https://littletinman.github.io/tpz-pages</id>
+
+</feed>

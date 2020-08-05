@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "The Practice Zone",
+    "description": "",
+    "home_page_url": "https://littletinman.github.io/tpz-pages",
+    "feed_url": "https://littletinman.github.io/tpz-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Phil"
+    },
+    "items": [
+    ]
+}
